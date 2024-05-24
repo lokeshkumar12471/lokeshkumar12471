@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **CorePHP,Laravel,React**
+- 💬 Ask me about **PHP, Laravel, React, Node.js**
 
 - 📫 How to reach me **lokeshkumar12471@gmail.com**
 
